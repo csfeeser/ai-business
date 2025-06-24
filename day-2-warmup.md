@@ -1,5 +1,7 @@
 # AI Warm-Up Challenge!
 
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3010177d-a7b0-4013-9dfe-cacd3aa64592_600x360.jpeg" alt="AI Hallucination Cartoon" width="300"/>
+
 Welcome to today’s warm-up! You’ll complete three short challenges using your AI assistant, **VIRGIL**, or any other generative AI tool you have access to.
 
 Each task focuses on real-world uses of prompt writing, tone control, and output evaluation.
